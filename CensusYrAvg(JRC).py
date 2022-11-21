@@ -39,3 +39,4 @@ for p in range(len(df)):
     
 
 df["roc"] = A
+df = df.drop_duplicates()
