@@ -7,6 +7,9 @@ The Big 6
 4. Crime (Either low, Or is decreasing)
 5. Income Growth
 6. Rent Growth
+
+
+
     7 It also good to be in a ethnically diverse place 
     
     
