@@ -1,15 +1,12 @@
 # WIZARDS
 The Big 6
 
-1. Polulation growth
+1. Population growth
 2. Job growth
 3. Housing Value Growth
-4. Crime (Either low, Or is decreasing)
+4. Crime (Either low or decreasing)
 5. Income Growth
 6. Rent Growth
-
-
-
-    7 It also good to be in a ethnically diverse place 
+7. Population Diversity
     
     
